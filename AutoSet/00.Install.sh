@@ -1,4 +1,5 @@
 cd /home/pi/AutoSet
+chmod 755 *.sh
 ./01.Localization.sh
 sleep 1
 ./02.Hangul_Gamelist.sh
